@@ -1,0 +1,200 @@
+{
+    "car": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\car\\09234.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\car\\09235.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\car\\09237.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\car\\09238.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\car\\09244.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\car\\09249.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\car\\69258.mp4"
+    ],
+    "computer": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12311.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12312.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12313.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12314.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12315.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12316.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12317.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12318.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12319.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12320.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12326.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12327.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12328.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\computer\\12338.mp4"
+    ],
+    "door": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\door\\17324.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\door\\17325.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\door\\17326.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\door\\17327.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\door\\17330.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\door\\17336.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\door\\65520.mp4"
+    ],
+    "friend": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\friend\\23568.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\friend\\23569.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\friend\\23570.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\friend\\23572.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\friend\\23574.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\friend\\23578.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\friend\\65782.mp4"
+    ],
+    "hospital": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\hospital\\28033.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\hospital\\28034.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\hospital\\28035.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\hospital\\28036.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\hospital\\28038.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\hospital\\28041.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\hospital\\28044.mp4"
+    ],
+    "love": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\love\\34121.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\love\\34123.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\love\\34124.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\love\\34127.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\love\\34128.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\love\\34129.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\love\\34137.mp4"
+    ],
+    "money": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\money\\36648.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\money\\36651.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\money\\36652.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\money\\36654.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\money\\36660.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\money\\66138.mp4"
+    ],
+    "phone": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\phone\\42423.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\phone\\42424.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\phone\\42425.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\phone\\42428.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\phone\\42434.mp4"
+    ],
+    "school": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\school\\49595.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\school\\49596.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\school\\49597.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\school\\49598.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\school\\49599.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\school\\49600.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\school\\49602.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\school\\49606.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\school\\69455.mp4"
+    ],
+    "stop": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\stop\\54922.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\stop\\54923.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\stop\\54925.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\stop\\54928.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\stop\\54932.mp4"
+    ],
+    "train": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\train\\59307.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\train\\59308.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\train\\59309.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\train\\59310.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\train\\59314.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\train\\59316.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\train\\59319.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\train\\59320.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\train\\66665.mp4"
+    ],
+    "water": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\water\\62499.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\water\\62500.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\water\\62501.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\water\\62502.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\water\\62503.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\water\\62505.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\water\\62506.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\water\\62510.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\water\\66752.mp4"
+    ],
+    "work": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\work\\63788.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\work\\63789.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\work\\63790.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\work\\63791.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\work\\63792.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\work\\63793.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\work\\63795.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\work\\63799.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\work\\63806.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\work\\66804.mp4"
+    ],
+    "write": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\write\\64056.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\write\\64057.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\write\\64058.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\write\\64059.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\write\\64060.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\write\\64061.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\write\\64065.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\write\\64068.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\write\\66815.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\write\\69544.mp4"
+    ],
+    "family": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\family\\20978.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\family\\20979.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\family\\20980.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\family\\20981.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\family\\20982.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\family\\20983.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\family\\20986.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\family\\20987.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\family\\20992.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\family\\65677.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\family\\69316.mp4"
+    ],
+    "dance": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\dance\\14622.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\dance\\14623.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\dance\\14624.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\dance\\14625.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\dance\\14627.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\dance\\14633.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\dance\\65434.mp4"
+    ],
+    "eat": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\eat\\18323.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\eat\\18324.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\eat\\18325.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\eat\\18329.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\eat\\18335.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\eat\\65601.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\eat\\69307.mp4"
+    ],
+    "hello": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\hello\\27172.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\hello\\27173.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\hello\\27177.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\hello\\27184.mp4"
+    ],
+    "play": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\play\\43166.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\play\\43167.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\play\\43168.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\play\\43169.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\play\\43170.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\play\\43171.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\play\\43173.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\play\\43174.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\play\\43179.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\play\\43180.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\play\\69433.mp4"
+    ],
+    "read": [
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\read\\46266.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\read\\46267.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\read\\46268.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\read\\46269.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\read\\46272.mp4",
+        "D:\\sem-project\\sem6-project\\Datasets\\sign-language-dataset-wlasl-videos\\dataset\\SL\\read\\46276.mp4"
+    ]
+}
